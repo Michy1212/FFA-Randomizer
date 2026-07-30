@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo.png)
+![Logo]()
 
 # Final Fantasy Adventure Randomizer
 
