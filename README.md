@@ -1,3 +1,5 @@
+![Logo] (https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo.png)
+
 # Final Fantasy Adventure Randomizer
 
 The aim of this document is to provide important information about the Final Fantasy Adventure Randomizer.
