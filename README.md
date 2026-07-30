@@ -48,6 +48,7 @@ Only modifications intended to prevent softlocks or preserve story logic have be
 
 - To prevent softlocks in Glaive Castle, the bridge before the castle (which normally collapses) remains available, allowing the player to return to Mt. Rocks.  
   The cutscene will still destroy the bridge, but it will reappear after reloading the screen.
+  ![Bridge to Glaive](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Bridge%20to%20Glaive.png)
 
 - Other changes:
 
