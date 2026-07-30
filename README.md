@@ -1,9 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo.png)
+[![Logo Discord](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo%20Discord.png)](https://discord.gg/pX4DurvcAH)
 
 # Final Fantasy Adventure Randomizer
-<a href="[https://discord.gg/ton-invitation](https://discord.gg/pX4DurvcAH)" target="_blank">
-  <img src="https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo%20Discord.webp" alt="Logo Discord" width="100" />
-</a>
 
 The aim of this document is to provide important information about the Final Fantasy Adventure Randomizer.
 
