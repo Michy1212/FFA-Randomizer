@@ -32,7 +32,7 @@ Only modifications intended to prevent softlocks or preserve story logic have be
 - Some leaves have been removed, allowing the player to access the chest and avoid a potential softlock if they save without having the Sickle.  
   |**Before :**|**After :**|
   |------------|-----------|
-  |![Before Sickle]([images/before_leaves.png](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Sickle%20room%20before.png))|![After Sickle]([images/after_leaves.png](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Sickle%20room%20after.png))|
+  |![Before Sickle]([images/before_leaves.png](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Sickle%20room%20before.png)|![After Sickle]([images/after_leaves.png](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Sickle%20room%20after.png)|
 
 - To obtain the Chain chest, you must already have the Chain. When this chest is opened, the door in Lee's room closes, and the only way to make Lee appear is by obtaining Fuji, so having a Chain.  
   **Before:**  
