@@ -1,5 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo.png)
-[![Logo Discord](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo%20Discord.png)](https://discord.gg/pX4DurvcAH){:target="_blank"}
+<a href="https://discord.gg/pX4DurvcAH" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo%20Discord.png" alt="Logo Discord" width="80" />
+</a>
 
 # Final Fantasy Adventure Randomizer
 
