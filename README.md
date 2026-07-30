@@ -35,17 +35,15 @@ Only modifications intended to prevent softlocks or preserve story logic have be
   |![Before Sickle](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Sickle%20room%20before.png)|![After Sickle](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Sickle%20room%20after.png)|
 
 - To obtain the Chain chest, you must already have the Chain. When this chest is opened, the door in Lee's room closes, and the only way to make Lee appear is by obtaining Fuji, so having a Chain.  
-  **Before:**  
-  ![Before](images/before_chain.png)  
-  **After:**  
-  ![After](images/after_chain.png)
+  |**Before :**|**After :**|
+  |------------|-----------|
+  |![Before Chain](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Chain%20room%20before.png)|![After Chain](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Chain%20room%20after.png)|
 
 - If you obtain an early Chocobot and leave it behind during the early game, you may be unable to retrieve it and could softlock your game.  
   To prevent this, land has been added between Menos and the Airship Area, allowing you to return (only when the Chocobot is placed early).  
-  **Before:**  
-  ![Before](images/before_chocobot.png)  
-  **After:**  
-  ![After](images/after_chocobot.png)
+  |**Before :**|**After :**|
+  |------------|-----------|
+  |![Near Airship Normal](hhttps://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Near%20Airship%20before.png)|![Near Airship Modded](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Near%20Airship%20after.png)|
 
 - To prevent softlocks in Glaive Castle, the bridge before the castle (which normally collapses) remains available, allowing the player to return to Mt. Rocks.  
   The cutscene will still destroy the bridge, but it will reappear after reloading the screen.
