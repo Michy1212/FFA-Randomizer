@@ -48,6 +48,7 @@ Only modifications intended to prevent softlocks or preserve story logic have be
 
 - To prevent softlocks in Glaive Castle, the bridge before the castle (which normally collapses) remains available, allowing the player to return to Mt. Rocks.  
   The cutscene will still destroy the bridge, but it will reappear after reloading the screen.
+
   ![Bridge to Glaive](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Bridge%20to%20Glaive.png)
 
 - Other changes:
@@ -105,4 +106,4 @@ Be sure to save before collecting any of the following checks:
 
 ## Other notes
 - The item or equipment obtained from the Battle Axe sale has a modified resale value. Since an expensive item could otherwise be purchased for only 150 GP and repeatedly sold for profit (because it is restocked when no longer owned), its resale value has been reduced to 75 GP.
-- Some item names and spell names may appear truncated. This is normal. Different chests have different amounts of available text space, so names are shortened to fit. For example, “ Unicorn.” requires 8 bytes, but only 5 bytes are available for the Ether chest, so “ Unic” will be displayed.
+- Some item names and spell names may appear truncated. This is normal. Different chests have different amounts of available text space, so names are shortened to fit. For example, “![Potion](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Potion.png) Unicorn.” requires 8 bytes, but only 5 bytes are available for the Ether chest, so “![Potion](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Potion.png) Unic” will be displayed.
