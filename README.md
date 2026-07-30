@@ -30,10 +30,9 @@ All other items and equipment can appear in shops, even XCalibur!
 Only modifications intended to prevent softlocks or preserve story logic have been made. Map changes were created using patches generated from a ROM edited with Mystic Editor.
 
 - Some leaves have been removed, allowing the player to access the chest and avoid a potential softlock if they save without having the Sickle.  
-  **Before:**  
-  ![Before](images/before_leaves.png)  
-  **After:**  
-  ![After](images/after_leaves.png)
+  |**Before :**|**After :**|
+  |------------|-----------|
+  |![Before]([images/before_leaves.png](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Sickle%20room%20before.png))|![After]([images/after_leaves.png](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Sickle%20room%20after.png))|
 
 - To obtain the Chain chest, you must already have the Chain. When this chest is opened, the door in Lee's room closes, and the only way to make Lee appear is by obtaining Fuji, so having a Chain.  
   **Before:**  
