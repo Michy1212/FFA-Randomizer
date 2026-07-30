@@ -1,11 +1,12 @@
 ![Logo](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo.png)
 
 # Final Fantasy Adventure Randomizer
+
+The aim of this document is to provide important information about the Final Fantasy Adventure Randomizer.
+
 <a href="https://discord.gg/pX4DurvcAH" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo%20Discord.png" alt="Logo Discord" width="80" />
 </a>
-
-The aim of this document is to provide important information about the Final Fantasy Adventure Randomizer.
 
 ## Which version of the game can be randomized?
 Currently, only the US version can be randomized. The randomization software will check your ROM's CRC32 to ensure that it is compatible.
