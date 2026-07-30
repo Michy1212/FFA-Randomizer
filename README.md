@@ -43,7 +43,7 @@ Only modifications intended to prevent softlocks or preserve story logic have be
   To prevent this, land has been added between Menos and the Airship Area, allowing you to return (only when the Chocobot is placed early).  
   |**Before :**|**After :**|
   |------------|-----------|
-  |![Near Airship Normal](hhttps://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Near%20Airship%20before.png)|![Near Airship Modded](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Near%20Airship%20after.png)|
+  |![Near Airship Normal](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Near%20Airship%20before.png)|![Near Airship Modded](https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Near%20Airship%20after.png)|
 
 - To prevent softlocks in Glaive Castle, the bridge before the castle (which normally collapses) remains available, allowing the player to return to Mt. Rocks.  
   The cutscene will still destroy the bridge, but it will reappear after reloading the screen.
