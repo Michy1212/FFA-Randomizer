@@ -5,7 +5,7 @@
 The aim of this document is to provide important information about the Final Fantasy Adventure Randomizer.
 
 <a href="https://discord.gg/pX4DurvcAH" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo%20Discord.png" alt="Logo Discord" width="80" />
+  <img src="https://raw.githubusercontent.com/Michy1212/FFA-Randomizer/refs/heads/main/images/Logo%20Discord.png" alt="Logo Discord" width="33" />
 </a>
 
 ## Which version of the game can be randomized?
